@@ -1,6 +1,5 @@
-# {{ name }}
-
-> {{ description }}
+# Chat
+> Chat for vuejs
 
 ## Build Setup
 
